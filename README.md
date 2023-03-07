@@ -10,13 +10,13 @@ The code for this application consists of three JavaScript files:
 ### todo-functions.js
 This file contains the following functions:
 
-getSavedTodos(): fetches existing tasks from localStorage
-saveTodos(todos): saves tasks to localStorage
-removeTodo(): removes a task from the list
-toggleTodo(): toggles the completion status of a task
-generateTodoDOM(): generates the DOM structure for a new task
-renderTodos(): renders the application tasks based on filters
-generateSummaryDOM(): generates the DOM element for the list summary
+* getSavedTodos(): fetches existing tasks from localStorage
+* saveTodos(todos): saves tasks to localStorage
+* removeTodo(): removes a task from the list
+* toggleTodo(): toggles the completion status of a task
+* generateTodoDOM(): generates the DOM structure for a new task
+* renderTodos(): renders the application tasks based on filters
+* generateSummaryDOM(): generates the DOM element for the list summary
 ### todo-app.js
 This file contains the main application code, which creates a list of tasks, sets the filter criteria, and renders the tasks using the functions defined in todo-functions.js. The code also includes event listeners for user actions, such as adding, removing, or marking a task as completed.
 
