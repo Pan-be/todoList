@@ -27,4 +27,5 @@ This file is a library that generates a unique ID for each task added to the lis
 The To Do application is deployed on Netlify, which allows for easy access and sharing of the project. The code is stored on a public GitHub repository, which can be accessed by anyone who wants to view or contribute to the project.
 
 ## Credits
-This project was created by [Pan.Be](https://pan-be.vercel.app). The code for this project is open source and can be found on GitHub.
+This project was created by [Pan.Be](https://pan-be.vercel.app). The code for this project is open source and can be found on GitHub. Here is the link to live preview:
+* [Link](https://todos-pan-be.netlify.app)
